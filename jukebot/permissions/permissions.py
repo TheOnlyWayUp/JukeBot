@@ -1,0 +1,18 @@
+jukebot_permissions = dict(
+    add_reactions=True,
+    connect=True,
+    embed_links=True,
+    manage_emojis=True,
+    manage_emojis_and_stickers=True,
+    manage_messages=True,
+    priority_speaker=True,
+    read_message_history=True,
+    read_messages=True,
+    request_to_speak=True,
+    send_messages=True,
+    send_messages_in_threads=True,
+    speak=True,
+    start_embedded_activities=True,
+    use_external_emojis=True,
+    use_external_stickers=True,
+)
